@@ -1,9 +1,5 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-## Problem vs Solution – Health Card App  
-
-<img src="https://github.com/user-attachments/assets/"C:\Users\Admin\Downloads\ChatGPT Image Aug 22, 2025, 10_29_39 PM.png"" alt="Problem Solution Infographic" width="800"/>
-
 # [Health_Card] 🎯
 
 
