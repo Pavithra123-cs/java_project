@@ -1,26 +1,31 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Health_Card] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [SNPV CODERS]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [NAVANEETH A.P] - [ICCSCEM]
+- Member 2: [PAVITHRA N.P] - [ICCSCEM]
+- Member 3: [VISHNUPRIYA P.S] - [ICCSCEM]
+- Member 4: [SABARINADH K.M] - [ICCSCEM]
 
 ### Project Description
-[2-3 lines about what your project does]
+[A digital record system where:
+1.users(18+) can register with basic info name,age,address,blood group
+2. user can enter allergies to medicine
+3.users can upload recent dctr prescription.
+4.dctr can access this data when patients visit new hospital..........]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Patients medical records are scattered across hospitals and paper reports,making them hard to access when need .This causes repeated tests,treatments errors, and delays in emergenceies. There is a need for a digital health card app that securely stores and provides quick access to a patients complete health history]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[The health card app provides a centralized digital platform to store medical history,prescriptions,lab reports and emergency details. patients and dctrs can securely access the data anytime,reducing repeated test and errors.in emergencies,the app gives instant access to critical info like blood grp,allergies,and ongoing treatments,ensuring faster and safer health care.]
 
 ## Technical Details
 ### Technologies/Components Used
