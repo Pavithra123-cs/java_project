@@ -1,5 +1,6 @@
 # [Health_Card] 🎯
-<img width="1536" height="1024" alt="ChatGPT Image Aug 22, 2025, 10_29_39 PM" src="https://github.com/user-attachments/assets/2cf63374-3bd7-4c7d-8df1-69f9d950c571" />
+<img width="1536" height="1024"
+  style="border: 3px solid #4CAF50; border-radius: 15px; box-shadow: 3px 3px 10px gray;  alt="ChatGPT Image Aug 22, 2025, 10_29_39 PM" src="https://github.com/user-attachments/assets/2cf63374-3bd7-4c7d-8df1-69f9d950c571" />
 
 # [WELCOME!!!!!!!!!!!!!!!!] 🎯
 
